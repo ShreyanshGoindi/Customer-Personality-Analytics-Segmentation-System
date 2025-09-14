@@ -73,7 +73,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy yellowbrick
 3. **Run the analysis**:
    ```python
    # Load and run the complete analysis
-   python customer_segmentation_analysis.py
+   python Final_Project_UnstructuredData.py
    ```
 4. **View results**: Generated visualizations and business recommendations
 
